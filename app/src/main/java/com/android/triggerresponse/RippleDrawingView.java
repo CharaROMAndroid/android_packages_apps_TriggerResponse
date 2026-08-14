@@ -1,4 +1,4 @@
-package org.calyxos.ripple;
+package com.android.triggerresponse;
 
 import android.content.Context;
 import android.content.res.Resources;

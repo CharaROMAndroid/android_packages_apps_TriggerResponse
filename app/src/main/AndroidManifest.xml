@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="org.calyxos.ripple"
+          package="com.android.triggerresponse"
           android:versionCode="31000001"
           android:versionName="12-1.0">
           <!--
@@ -35,7 +35,7 @@
                 tools:targetApi="jelly_bean">
             <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
-                    android:value="org.calyxos.ripple.MainActivity"/>
+                    android:value="com.android.triggerresponse.MainActivity"/>
         </activity>
         <activity
                 android:name=".CountDownActivity"

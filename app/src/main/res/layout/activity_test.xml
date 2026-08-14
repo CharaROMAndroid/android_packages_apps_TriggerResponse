@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#c0000000"
-        tools:context="org.calyxos.ripple.TestActivity">
+        tools:context="com.android.triggerresponse.TestActivity">
 
     <ImageButton
             android:id="@+id/panic_button"

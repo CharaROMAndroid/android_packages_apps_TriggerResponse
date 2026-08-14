@@ -26,7 +26,7 @@
             android:layout_centerInParent="true"
             android:paddingTop="34dp">
 
-        <org.calyxos.ripple.RippleDrawingView
+        <com.android.triggerresponse.RippleDrawingView
                 android:id="@+id/ripples"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

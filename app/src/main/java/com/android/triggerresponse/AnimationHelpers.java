@@ -1,4 +1,4 @@
-package org.calyxos.ripple;
+package com.android.triggerresponse;
 
 import android.animation.Animator;
 import android.animation.Animator.AnimatorListener;
