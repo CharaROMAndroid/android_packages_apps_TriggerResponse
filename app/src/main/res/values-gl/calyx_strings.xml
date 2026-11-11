@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="panic_tile_label">Disparador do pánico</string>
-    <string name="settings_summary">Configurala resposta dun disparador do pánico en emerxencia.</string>
-    <string name="settings_name">Configuración do pánico</string>
 </resources>

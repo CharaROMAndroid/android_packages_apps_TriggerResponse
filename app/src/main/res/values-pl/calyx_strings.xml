@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="settings_name">Ustawienia wyzwalacza paniki</string>
     <string name="panic_tile_label">Wyzwalacz paniki</string>
-    <string name="settings_summary">Ustaw działanie awaryjnego wyzwalacza paniki.</string>
 </resources>
